@@ -5,8 +5,8 @@ pluginManagement {
         gradlePluginPortal()
 
         maven {
-            name = "NeoForge Release Maven"
-            url = uri("https://maven.neoforged.net/releases")
+            name = "Forge Release Maven"
+            url = uri("https://maven.minecraftforge.net/releases")
         }
     }
 }
